@@ -21,8 +21,8 @@
 
 <h2> My stats <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsaasgrover&show_icons=true&&theme=buefy&icon_color=title_color&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)                         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaasgrover&langs_count=8&theme=buefy&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsaasgrover&show_icons=true&theme=beufy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaasgrover&layout=compact&theme=beufy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
