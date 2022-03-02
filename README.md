@@ -10,7 +10,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- Final year BE(Hons) Software Engineering student at Auckland University of Technology 🏛
+- Currently working at Accenture as a Technology Analyst
+- Recently completed BE(Hons) Software Engineering student from the Auckland University of Technology 🏛
 - Currently learning: React Native 📱  & HTML5 Canvas 🖥
 - Current project: A cross-platform, react native Medication Tracker mobile application 💊
 
