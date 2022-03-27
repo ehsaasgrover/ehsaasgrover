@@ -12,8 +12,7 @@
 
 - Currently working at Accenture as a Technology Analyst 👩🏽‍💻
 - Recently completed BE(Hons) Software Engineering student from the Auckland University of Technology 🏛
-- Currently learning: React Native 📱  & HTML5 Canvas 🖥
-- Current project: A cross-platform, react native Medication Tracker mobile application 💊
+- Currently learning: SAP eCommerce 🛍
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <a href = 'https://www.linkedin.com/in/ehsaas-grover-368478196/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
