@@ -11,8 +11,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - Currently working at Accenture as a Technology Analyst 👩🏽‍💻
-- Recently completed BE(Hons) Software Engineering from the Auckland University of Technology 🏛
-- Currently learning: SAP eCommerce 🛍 
+- Graduated with BE(Hons) Software Engineering from the Auckland University of Technology 🏛
+- Currently learning: Snowflake ❄️ 
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/ehsaas-grover-368478196/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
